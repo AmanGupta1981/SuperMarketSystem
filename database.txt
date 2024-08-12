@@ -1,0 +1,4 @@
+ 1 rice 400 5
+ 2 milk 50 1
+ 3 bread 30 1
+ 4 butter 90 2
